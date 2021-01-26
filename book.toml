@@ -3,3 +3,9 @@ authors = ["James Munns"]
 multilingual = false
 src = "src"
 title = "The Embedded Rust Book"
+language = "en"
+version = "0.0.1"
+
+[output.epub]
+additional-resources = ["assets/f3.jpg","assets/verify.jpeg","assets/crates.png"]
+
